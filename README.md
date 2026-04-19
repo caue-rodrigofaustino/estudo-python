@@ -1,1 +1,1 @@
-# estudo-python
+Estou aprofundando meus estudos em Python por meio do curso do Gustavo Guanabara(Curso em Vídeo) e tenho achado a didática extremamente completa e acessível. Sei que ainda há um longo caminho pela frente, por isso pretendo focar na criação de projetos práticos e rápidos para consolidar os novos conhecimentos que estou adquirindo.
