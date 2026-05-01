@@ -1,6 +1,6 @@
 import random
 
-num = random.randint(1,10 + 1)
+num = random.randint(0,10)
 resposta = 0
 palpite = 0
 while resposta != num:
